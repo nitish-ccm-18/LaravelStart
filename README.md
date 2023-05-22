@@ -15,3 +15,9 @@ npm install
 npm run dev
 ```
 
+### If bootstrap is not loading then do following steps : 
+```
+npm install resolve-url-loader@^4.0.0 --save-dev --legacy-peer-deps
+npm run dev
+```
+
